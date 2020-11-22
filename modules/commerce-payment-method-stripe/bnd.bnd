@@ -1,0 +1,4 @@
+Bundle-Name: commerce-payment-method-stripe
+Bundle-SymbolicName: com.uminas.commerce.payment.method.stripe
+Bundle-Version: 1.0.0
+Web-ContextPath: /commerce-payment-method-stripe
