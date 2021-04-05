@@ -1,2 +1,2 @@
 # liferay-commerce-payment-method-stripe
-Pay via Stripe for LIferay Commerce
+Stripe payment method plugin for Liferay Commerce 3,0 (portal-7.3.5-ga6)
