@@ -95,7 +95,7 @@ public class StripeCommercePaymentMethod implements CommercePaymentMethod {
 
 	@Override
 	public String getName(Locale locale) {
-		return LanguageUtil.get(locale, KEY);
+		return _getResource(locale, KEY);
 	}
 
 	@Override
